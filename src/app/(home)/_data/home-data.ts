@@ -122,7 +122,7 @@ export const homeData = {
         },
         {
             title: 'MTsN 2 Kota Kediri',
-            description: 'Menjadi Siswa aktif selama 6 tahun',
+            description: 'Menjadi Siswa aktif selama 3 tahun',
             image: 'kemenag.png',
         },
     ]
